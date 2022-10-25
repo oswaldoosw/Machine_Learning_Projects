@@ -26,5 +26,5 @@ This repository contains all of my Machine Learning projects, written in Python 
 - Open Jupyter Notebook
 - Navigate to the cloned folder
 - Open the files you want to see
-
-These notebooks document the inputs and outputs of my session, so you don't have to re-run the files. If you want to run the files, you might have to do some package installations if you haven't done so. I have listed the commands to install the required packages for each project, but they may be incomplete as I didn't document what I have installed on my local computer.
+- 
+These notebooks document the inputs and outputs of my session, so you don't have to re-run the files. If you want to run the files, you might have to do some package installations if you haven't done so. I have listed the commands to install the required packages for each project, but they may be incomplete as I didn't document what I have installed on my local computer. If an error regarding missing packages pops up, install the missing packages.
