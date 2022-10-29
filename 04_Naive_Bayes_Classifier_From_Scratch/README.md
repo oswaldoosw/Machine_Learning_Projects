@@ -3,7 +3,8 @@ In this project, I created a Naive Bayes Classifier from scratch, which aims to 
 
 A 70:30 ratio split is performed on the original dataset into train and test. Some procedures are performed, such as identifying the categorical and continuous attributes. Then, for every row in the training dataset, a calculation regarding the maximum likelihood for Age = 1, Age = 2, and Age = 3 is performed. The highest probability between all three classes is the prediction.
 
-## Package Installations
+## How to Run the Classifier With Another Dataset?
+
 
 ## Package Installations
 -       pip install numpy
