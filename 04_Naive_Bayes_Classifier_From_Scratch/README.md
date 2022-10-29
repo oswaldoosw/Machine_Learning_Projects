@@ -50,4 +50,5 @@ This result of this Naive Bayes Classifier lines up with the result of Scikit-Le
 -       pip install statistics
 
 ## Acknowledgements
-<a href="https://towardsdatascience.com/continuous-data-and-zero-frequency-problem-in-naive-bayes-classifier-7784f4066b51">Continuous Data and Zero Frequency Problem in Naive Bayes Classifier</a>
+- <a href="https://towardsdatascience.com/continuous-data-and-zero-frequency-problem-in-naive-bayes-classifier-7784f4066b51">Continuous Data and Zero Frequency Problem in Naive Bayes Classifier</a>
+- <a href="https://archive.ics.uci.edu/ml/datasets/abalone">Abalone Dataset</a>
