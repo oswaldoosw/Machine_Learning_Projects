@@ -59,6 +59,6 @@ This project is about facial recognition, a classification of 30 different peopl
   
 -       pip install face-recognition
 
-## Acknowledgements
+## Acknowledgments
 - <a href="http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf">VGGFace</a> as the pre-trained base model
 - Data was taken and selected from the <a href="http://vis-www.cs.umass.edu/lfw/">Labeled Faces in the Wild dataset</a>
