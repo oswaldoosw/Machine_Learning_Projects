@@ -21,5 +21,5 @@ In this project, I created a Support Vector Regression based model to predict th
 -       pip install scikit-learn
 
 
-## Acknowledgements
+## Acknowledgments
 - <a href="https://www.kaggle.com/datasets/davidjfisher/illinois-doc-labeled-faces-dataset">Illinois DOC labeled faces dataset</a>
