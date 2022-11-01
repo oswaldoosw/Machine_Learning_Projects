@@ -3,6 +3,8 @@ In this project, I created a Naive Bayes Classifier from scratch, which aims to 
 
 A 70:30 ratio split is performed on the original dataset into train and test. Some procedures are performed, such as identifying the categorical and continuous attributes. Then, for every row in the training dataset, a calculation regarding the maximum likelihood for Age = 1, Age = 2, and Age = 3 is performed. The highest probability between all three classes is the prediction.
 
+#### Note: All explanations included in the .ipynb file
+
 ## How to Run the Classifier With Another Dataset?
 ### Step 1: Prepare Your Own Dataset
 First off, delete these lines.
@@ -49,6 +51,6 @@ This result of this Naive Bayes Classifier lines up with the result of Scikit-Le
   
 -       pip install statistics
 
-## Acknowledgements
+## Acknowledgments
 - <a href="https://towardsdatascience.com/continuous-data-and-zero-frequency-problem-in-naive-bayes-classifier-7784f4066b51">Continuous Data and Zero Frequency Problem in Naive Bayes Classifier</a>
 - <a href="https://archive.ics.uci.edu/ml/datasets/abalone">Abalone Dataset</a>
